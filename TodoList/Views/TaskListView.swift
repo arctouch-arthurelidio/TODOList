@@ -30,7 +30,7 @@ struct TaskListView: View {
                 Button(action: { self.presentAddNewItem.toggle()}, label: {
                     HStack {
                         Image(systemName: "plus.circle.fill")
-                        Text("Adicionar nova tarefa")
+                        Text("Adicionar nova tarefa!!!")
                     }
                 })
                 .padding()
